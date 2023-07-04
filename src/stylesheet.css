@@ -60,7 +60,7 @@ a {
   padding: 20px;
   width: 20%;
   height: 100%;
-  margin-top: 20px;
+  margin-top: 30px;
 }
 .arc-sidebar-item {
   line-height: 1.7em;
@@ -115,155 +115,13 @@ a {
   text-align: center;
   text-transform: uppercase;
 }
-/* Form classes begin */
-.arc-form {
-  background-color: #f8f9fa;
-  padding: 20px;
-  overflow: hidden;
-  border-radius: 5px;
-}
-input[type=text], input[type=email], select, textarea {
-  width: 100%;
-  padding: 12px;
-  border: 1px solid #ccc;
-  border-radius: 5px;
-  box-sizing: border-box;
-  margin-top: 6px;
-  margin-bottom: 16px;
-  resize: vertical;
-  font-family: sans-serif;
-}
-input[type=file] {
-  margin-top: 20px;
-  margin-bottom: 20px;
-}
-input[type=submit] {
+.arc-button-small {
   background-color: #ffbf00;
   color: white;
-  padding: 12px 20px;
+  padding: 12px 10px;
   border: none;
   border-radius: 5px;
   cursor: pointer;
-}
-textarea {
-  height: 175px;
-}
-/* Form classes end */html {
-  height: 100%;
-  width: 100%;
-}
-body {
-  font-family: sans-serif;
-  background-color: #f8f9fa;
-  color: #202122;
-  margin: 0px;
-  display: flex;
-  justify-content: center;
-  height: 100%;
-}
-a {
-  color: #ffbf00;
-}
-.arc-fullpage {
-  position: relative;
-  background-color: #ffffff;
-  padding-left: 3em;
-  padding-right: 3em;
-  min-height: 100%;
-  min-width: 500px;
-  width: 1000px;
-}
-.arc-header {
-  position: relative;
-  display: flex;
-  align-items: center;
-  margin-left: 47px;
-  padding: 8px;
-}
-.arc-title, .arc-title a {
-  color: #ffbf00;
-  font-size: x-large;
-  font-weight: bold;
-  margin-left: 5px;
-  text-decoration: none;
-}
-.arc-subtitle {
-  font-size: x-large;
-  margin-left: 5px;
-}
-.arc-logo-container {
-  width: 50px;
-  height: 50px;
-}
-#arc-logo {
-  max-width: 100%;
-  max-height: 100%;
-}
-.arc-navigation {
-  padding: 10px;
-  position: absolute;
-  right: 0;
-  margin-right: 0.75em;
-}
-.arc-sidebar {
-  background-color: #f8f9fa;
-  padding: 20px;
-  width: 20%;
-  height: 100%;
-  margin-top: 20px;
-}
-.arc-sidebar-item {
-  line-height: 1.7em;
-  word-wrap: break-word;
-  list-style: none;
-}
-.arc-sidebar-item a {
-  color: #3366cc;
-}
-.arc-sidebar-item a:visited {
-  color: #795cb2;
-}
-.arc-page {
-  padding: 20px;
-  width: 100%;
-  max-width: 60em;
-  display: flex;
-  justify-content: center;
-}
-.arc-content {
-  width: 80%;
-  margin: 20px;
-}
-.arc-content-subsection {
-  font-size: large;
-  border-bottom: 1px solid #a2a9b1;
-}
-.arc-content-subtext {
-  font-size: small;
-  margin-top: 20px;
-}
-.arc-footer {
-  border-top: 1px solid #a2a9b1;
-  font-size: small;
-  margin-top: 10px;
-  width: 100%;
-  padding: 10px;
-  padding-right: 0px;
-  display: inline-flex;
-  justify-content: center;
-}
-.arc-box-big {
-  font-size: xxx-large;
-  background-color: #f8f9fa;
-  color: #ffbf00;
-  border: 1px solid #a2a9b1;
-  display: inline-block;
-  cursor: pointer;
-  padding: 80px;
-  margin: 10px;
-  text-decoration: none;
-  text-align: center;
-  text-transform: uppercase;
 }
 /* Form classes begin */
 .arc-form {

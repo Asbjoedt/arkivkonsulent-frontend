@@ -3,7 +3,7 @@ if (isset($_POST['input_filepath'])) {
 	shell_exec("validate-spreadsheet.exe $_POST['input_filepath'] $POST_['standard'] $POST_['archivalrequirements']");
 }
 
-$target_dir = "../../software/uploads/";
+$target_dir = "/user-uploads/";
 $target_file = $target_dir . basename($_FILES["fileToUpload"]["name"]);
 $uploadOk = 1;
 $imageFileType = strtolower(pathinfo($target_file,PATHINFO_EXTENSION));
