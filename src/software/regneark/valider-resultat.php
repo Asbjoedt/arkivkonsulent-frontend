@@ -3,7 +3,7 @@ if (isset($_POST['input_filepath'])) {
 	shell_exec("validate-spreadsheet.exe $_POST['input_filepath'] $POST_['standard'] $POST_['archivalrequirements']");
 }
 
-$target_dir = "../software/uploads/";
+$target_dir = "../../software/uploads/";
 $target_file = $target_dir . basename($_FILES["fileToUpload"]["name"]);
 $uploadOk = 1;
 $imageFileType = strtolower(pathinfo($target_file,PATHINFO_EXTENSION));
@@ -51,13 +51,13 @@ if ($uploadOk == 0) {
 }
 ?>
 
-<?php include('../software/pagetitle.php') ?>
+<?php include('../../software/pagetitle.php') ?>
 <!DOCTYPE html>
 <html lang="da">
-<?php include('../templates/head.php') ?>
+<?php include('../../templates/head.php') ?>
 <body>
   	<div class="arc-fullpage">
-		<?php include('../templates/header.php') ?>
+		<?php include('../../templates/header.php') ?>
         <div class="arc-page">
           <?php include('../templates/sidebar.php') ?>
           <div class="arc-content">
@@ -65,7 +65,7 @@ if ($uploadOk == 0) {
             <p>Valider OOXML regneark.</p>
           </div>
         </div>
-		<?php include('../templates/footer.php') ?>
+		<?php include('../../templates/footer.php') ?>
     </div>
 <script>
 </script>
