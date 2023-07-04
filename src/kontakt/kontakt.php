@@ -1,10 +1,10 @@
 <?php $pagetitle = "Kontakt"; $menu = true; ?>
 <!DOCTYPE html>
 <html lang="da">
-<?php include('templates/head.php') ?>
+<?php include('../templates/head.php') ?>
 <body>
   	<div class="arc-fullpage">
-		<?php include('templates/header.php') ?>
+		<?php include('../templates/header.php') ?>
         <div class="arc-page">
           <div class="arc-content">
 			<div class="arc-form">
@@ -20,7 +20,7 @@
             </div>
           </div>
         </div>
-		<?php include('templates/footer.php') ?>
+		<?php include('../templates/footer.php') ?>
     </div>
 <script>
 </script>

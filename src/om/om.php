@@ -1,10 +1,10 @@
 <?php $pagetitle = "Om"; $menu = true; ?>
 <!DOCTYPE html>
 <html lang="da">
-<?php include('templates/head.php') ?>
+<?php include('../templates/head.php') ?>
 <body>
   	<div class="arc-fullpage">
-		<?php include('templates/header.php') ?>
+		<?php include('../templates/header.php') ?>
         <div class="arc-page">
           <div class="arc-content">
             <div class="arc-content-subsection">Formål</div>
@@ -21,7 +21,7 @@
             <p>Arkivkonsulent er grundlagt og drives af Asbjørn Skødt. Arkivkonsulent er pt. ikke formaliseret som en virksomhed, og der generes ingen indtægter.</p>
           </div>
         </div>
-		<?php include('templates/footer.php') ?>
+		<?php include('../templates/footer.php') ?>
     </div>
 <script>
 </script>

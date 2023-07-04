@@ -1,12 +1,12 @@
 <?php $pagetitle = "Tjenester"; $menu = true; ?>
 <!DOCTYPE html>
 <html lang="da">
-<?php include('templates/head.php') ?>
+<?php include('../templates/head.php') ?>
 <body>
   	<div class="arc-fullpage">
-		<?php include('templates/header.php') ?>
+		<?php include('../templates/header.php') ?>
         <div class="arc-page">
-          <?php include('templates/sidebar.php') ?>
+          <?php include('../templates/sidebar.php') ?>
           <div class="arc-content">
             <h2>Valider regneark</h2>
             <h3>Office Open XML regneark</h3>
@@ -20,7 +20,7 @@
             </div>
           </div>
         </div>
-		<?php include('templates/footer.php') ?>
+		<?php include('../templates/footer.php') ?>
     </div>
 <script>
 </script>

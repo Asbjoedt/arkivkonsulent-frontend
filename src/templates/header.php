@@ -1,7 +1,7 @@
 <div class="arc-header">
   <div class="arc-logo-container">
     <a href="/">
-      <img id="arc-logo" src="Arkivkonsulent-logo.svg">
+      <img id="arc-logo" src="../Arkivkonsulent-logo.svg">
     </a>
   </div>
   <div class="arc-title"><a href="/">Arkivkonsulent</a></div>

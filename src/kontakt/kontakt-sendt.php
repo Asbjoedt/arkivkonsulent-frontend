@@ -16,16 +16,16 @@ $headers = 'Fra: ' . $email . "\r\n" .
 
 <!DOCTYPE html>
 <html lang="da">
-<?php include('templates/head.php') ?>
+<?php include('../templates/head.php') ?>
 <body>
   	<div class="arc-fullpage">
-		<?php include('templates/header.php') ?>
+		<?php include('../templates/header.php') ?>
         <div class="arc-page">
           <div class="arc-content">
             <p>Tak fordi du kontaktede os. Vi vil være i kontakt snart.</p>
           </div>
         </div>
-		<?php include('templates/footer.php') ?>
+		<?php include('../templates/footer.php') ?>
     </div>
 <script>
 </script>
