@@ -9,7 +9,7 @@
           <?php include('../../templates/sidebar.php') ?>
           <div class="arc-content">
             <h2>archiveIndex</h2>
-            <h3>Vedrørende din brug af servicen</h3>
+            <p>Applikationen er under udvikling.</p>
           </div>
         </div>
 		<?php include('../../templates/footer.php') ?>

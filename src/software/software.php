@@ -9,8 +9,8 @@
           <?php include('../templates/sidebar.php') ?>
           <div class="arc-content">
             <h2>Velkommen!</h2>
-            <p>Her finder du Arkivkonsulentens it-værktøjer.</p>
-            <p>Vælg i menuen til venstre det it-værktøj, som du ønsker at anvende.</p>
+            <p>Her finder du Arkivkonsulentens applikationer.</p>
+            <p>Vælg i menuen til venstre den applikation, som du ønsker at anvende.</p>
           </div>
         </div>
 		<?php include('../templates/footer.php') ?>
