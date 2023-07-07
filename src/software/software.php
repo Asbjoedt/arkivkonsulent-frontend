@@ -1,4 +1,4 @@
-<?php include('../software/pagetitle.php') ?>
+<?php $pagetitle = "Software"; $menu = true; ?>
 <!DOCTYPE html>
 <html lang="da">
 <?php include('../templates/head.php') ?>
