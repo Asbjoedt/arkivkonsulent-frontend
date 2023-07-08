@@ -9,7 +9,7 @@
           <?php include('../templates/sidebar.php') ?>
           <div class="arc-content">
             <h2>Servicevilkår</h2>
-			      <p>Al software stilles til rådighed iht. den licens, som er angivet for applikationen. Rådfør dig nærmere under den enkelte applikation for hvilken licens, der gælder.</p>
+			      <p>Software stilles til rådighed iht. den licens, som er angivet for applikationen. Rådfør dig nærmere under den enkelte applikation for hvilken licens, der gælder.</p>
           </div>
         </div>
 		<?php include('../templates/footer.php') ?>
