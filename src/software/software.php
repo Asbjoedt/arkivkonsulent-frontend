@@ -6,7 +6,7 @@
   	<div class="arc-fullpage">
 		<?php include('../templates/header.php') ?>
         <div class="arc-page">
-          <?php include('../templates/sidebar.php') ?>
+          <?php include('../templates/sidebar-software.php') ?>
           <div class="arc-content">
             <h2>Velkommen!</h2>
             <p>Her finder du Arkivkonsulentens applikationer.</p>

@@ -6,7 +6,7 @@
   	<div class="arc-fullpage">
 		<?php include('../../templates/header.php') ?>
         <div class="arc-page">
-          <?php include('../../templates/sidebar.php') ?>
+          <?php include('../../templates/sidebar-software.php') ?>
           <div class="arc-content">
             <h2>Download applikationer til arkivering af regneark</h2>
             <div class="arc-content-subsection">Konverter regneark</div>

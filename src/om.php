@@ -18,7 +18,7 @@
             <p>Arkivkonsulent kan ikke varemærkebeskyttes, fordi ordet beskriver de varer eller tjenesteydelser, som ansøgningen omfatter.</p>
             <p>Logo er hentet fra <a href="https://thenounproject.com/icon/archive-1952492/" target="_blank">Noun Project</a> og er skabt af Rajive. Logoet kan frit benyttes af enhver, så længe original kilde krediteres.</p>
             <div class="arc-content-subsection">Ejerskab</div>
-            <p>Arkivkonsulent er grundlagt og drives af <a href="https://www.linkedin.com/in/asbjoernskoedt" target="_blank">Asbjørn Skødt</a>. Arkivkonsulent er pt. ikke formaliseret som en virksomhed, og der skabes ingen indtægter.</p>
+            <p>Arkivkonsulent er grundlagt og drives af <a href="https://www.linkedin.com/in/asbjoernskoedt" target="_blank">Asbjørn Skødt</a>. Arkivkonsulent er pt. ikke formaliseret som en virksomhed, og der skabes ingen indtægter. Asbjørn har tidligere produceret <a href="portfolio/portfolio.php">en række hjemmesider for danske klienter</a>.</p>
           </div>
         </div>
 		<?php include('templates/footer.php') ?>

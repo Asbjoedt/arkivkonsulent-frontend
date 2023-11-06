@@ -6,7 +6,7 @@
   	<div class="arc-fullpage">
 		<?php include('../templates/header.php') ?>
         <div class="arc-page">
-          <?php include('../templates/sidebar.php') ?>
+          <?php include('../templates/sidebar-software.php') ?>
           <div class="arc-content">
             <h2>Databeskyttelse</h2>
 			      <p>Arkivkonsulent indsamler ikke dine data eller personoplysninger ifm. brug af denne hjemmeside eller applikationer, desuagtet om disse downloades som programmer til din lokale maskine eller anvendes som webapplikationer i din browser. I begge tilfælde sker afviklingen af software på din lokale maskine, og der sker ingen overførsel af data til servere.</p>
