@@ -1,43 +1,32 @@
 <?php $pagetitle = "Viden"; $menu = true; ?>
 <!DOCTYPE html>
 <html lang="da">
-<?php include('../../templates/head.php') ?>
+<?php include('../templates/head.php') ?>
 <body>
   	<div class="arc-fullpage">
-		<?php include('../../templates/header.php') ?>
+		<?php include('../templates/header.php') ?>
         <div class="arc-page">
-          <?php include('../../templates/sidebar-knowledge.php') ?>
+          <?php include('../templates/sidebar-knowledge.php') ?>
           <div class="arc-content">
             <h2>Generelt</h2>
-            <p>Samling af information, vejledninger, præsentationer, software, hjemmesider, publikationer o.l. vedr. digitale og online arkiver. Opdateres løbende: Senest opdateret 07.08.2019.
-
-            Formål
-
-            Digital bevaring skal sikre
-
-            registrering,
-            lagring,
-            fremfinding
-            og tilgængeliggørelse
-
-            af digitalskabte og digitaliserede arkivalier herunder også
-
-            kontrol,
-            validering
-            samt understøtte bevaringsplanlægning
-
-            så fremtidige generationer kan få adgang til autentisk viden om deres fortid.
-
-            Samlingen herunder skal forbinde og fastholde viden om digital bevaring og dermed understøtte udførelsen af dagligdags arbejdsopgaver.
-
-            Samling
-
-            Digitalbevaring.dk – Om digitalisering og digital bevaring
-            Et definitivt websted drevet af medarbejdere hos Det Kgl. Bibliotek og Rigsarkivet til information og værktøjer til digital bevaring.
-            – Ordbog til digital bevaring
-
-            Digitalpreservation.gov – Om digital bevaring
-            Tilsvarende websted drevet af det amerikanske Library of Congress.
+            <p>Samling af information, vejledninger, præsentationer, software, hjemmesider, publikationer o.l. vedr. digitale og online arkiver. Opdateres løbende: Senest opdateret 07.08.2019.</p>
+            <div class="arc-content-subsection">Formål</div>
+            <p>Digital bevaring skal sikre</p>
+            <li>registrering,</li>
+            <li>lagring,</li>
+            <li>fremfinding</li>
+            <li>og tilgængeliggørelse</li>
+            <p>af digitalskabte og digitaliserede arkivalier herunder også</p>
+            <li>kontrol,</li>
+            <li>validering</li>
+            <li>samt understøtte bevaringsplanlægning</li>
+            <p>så fremtidige generationer kan få adgang til autentisk viden om deres fortid.</p>
+            <p>Samlingen herunder skal forbinde og fastholde viden om digital bevaring og dermed understøtte udførelsen af dagligdags arbejdsopgaver.</p>
+            <h2>Samling</h2>
+            <div class="arc-content-subsection">Digitalbevaring.dk – Om digitalisering og digital bevaring</div>
+            <p>Et definitivt websted drevet af medarbejdere hos Det Kgl. Bibliotek og Rigsarkivet til information og værktøjer til digital bevaring.</p>
+            <div class="arc-content-subsection">Digitalpreservation.gov – Om digital bevaring</div>
+            <p>Tilsvarende websted drevet af det amerikanske Library of Congress.</p>
 
             Netarkivet – Indsamler og bevarer den danske del af internettet
             Afdeling hos Det Kgl. Bibliotek der varetager høst og bevaring af internettet ud fra begrebet “Danica”. Beklageligvis tillader lovgivningen kun forskeradgang til det arkiverede web.
@@ -110,10 +99,10 @@
             Rigsarkivet er repræsenteret i organet, hvis vigtigste bidrag i nyere tid har været udviklingen af den fælleseuropæiske standard Common Specification for Information Packages.
 
             Open Preservation Foundation
-            International interesseorganisation og udløber af PLANETS-projektet. OPF samler viden og teknologi om langtidsbevaringen af digital kulturarv. Et stort antal europæiske nationalarkiver og softwarefirmaer er medlemmer af organisationen.</p>
+            International interesseorganisation og udløber af PLANETS-projektet. OPF samler viden og teknologi om langtidsbevaringen af digital kulturarv. Et stort antal europæiske nationalarkiver og softwarefirmaer er medlemmer af organisationen.
           </div>
         </div>
-		<?php include('../../templates/footer.php') ?>
+		<?php include('../templates/footer.php') ?>
     </div>
 <script>
 </script>

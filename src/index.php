@@ -9,8 +9,8 @@
           <div class="arc-content">
             <a href="https://wiki.arkivkonsulent.dk" target="_blank"><div class="arc-box-big">Wiki</div></a>
             <a href="software/software.php"><div class="arc-box-big">Software</div></a>
-            <a href="kontakt/kontakt.php"><div class="arc-box-big">Kontakt</div></a>
-            <a href="om.php"><div class="arc-box-big">Om</div></a>
+            <a href="contact/contact.php"><div class="arc-box-big">Kontakt</div></a>
+            <a href="about.php"><div class="arc-box-big">Om</div></a>
           </div>
         </div>
 		<?php include('templates/footer.php') ?>

@@ -8,7 +8,7 @@
         <div class="arc-page">
           <div class="arc-content">
 			      <div class="arc-form">
-              <form name="sendpost" method="POST" action="kontakt-sendt.php">
+              <form name="sendpost" method="POST" action="contact-sent.php">
                 <label for="navn"><strong>Dit navn</strong></label><br>
                 <input type="text" name="navn" id="navn" autocomplete="on" minlength="2" placeholder="Skriv dit fulde navn..." required><br>
                 <label for="mailadresse"><strong>Din mailadresse</strong></label><br>
