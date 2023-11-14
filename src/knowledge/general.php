@@ -27,11 +27,10 @@
             <p>Et definitivt websted drevet af medarbejdere hos Det Kgl. Bibliotek og Rigsarkivet til information og værktøjer til digital bevaring.</p>
             <div class="arc-content-subsection">Digitalpreservation.gov – Om digital bevaring</div>
             <p>Tilsvarende websted drevet af det amerikanske Library of Congress.</p>
+            <div class="arc-content-subsection">Netarkivet – Indsamler og bevarer den danske del af internettet</div>
+            <p>Afdeling hos Det Kgl. Bibliotek der varetager høst og bevaring af internettet ud fra begrebet “Danica”. Beklageligvis tillader lovgivningen kun forskeradgang til det arkiverede web.</p>
 
-            Netarkivet – Indsamler og bevarer den danske del af internettet
-            Afdeling hos Det Kgl. Bibliotek der varetager høst og bevaring af internettet ud fra begrebet “Danica”. Beklageligvis tillader lovgivningen kun forskeradgang til det arkiverede web.
-
-            Rigsarkivet – Indsamler, bevarer og tilgængeliggør dansk kulturarv
+            <div class="arc-content-subsection">Rigsarkivet – Indsamler, bevarer og tilgængeliggør dansk kulturarv</div>
             – Søg i Rigsarkivets samlinger
             – Om bevaring af digitalt skabte arkivalier
 

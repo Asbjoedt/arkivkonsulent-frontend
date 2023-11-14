@@ -7,9 +7,6 @@
 		<?php include('../templates/header.php') ?>
         <div class="arc-page">
           <div class="arc-content">
-            <div class="arc-content-subsection">2023: Arkivkonsulent</div>
-            <p><a href="https://arkivkonsulent.dk" target="_blank">arkivkonsulent.dk</a></p>
-            <img src="/portfolio/arkivkonsulent.png">
             <div class="arc-content-subsection">2018: Bornholmske Billeder</div>
             <p>Digitalt arkiv til øens historie. <a href="https://bornholmskebilleder.dk" target="_blank">bornholmskebilleder.dk</a></p>
             <img src="/portfolio/bornholmske-billeder.png">
